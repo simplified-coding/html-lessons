@@ -1,1 +1,3 @@
-# html-lessons
+# HTML/CSS Lessons for Simplified Coding
+
+This repository contains a collection of lessons for learning HTML/CSS. I would recommend you to try out our website (simplifiedcoding.tech/HTML/index.html) first and have a look at the lessons there. The lessons are also available in this repository, but they are not as well maintained as the ones on the website. Please note that the lessons are writen in Greek.
